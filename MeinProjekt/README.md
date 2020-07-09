@@ -1,4 +1,4 @@
-Multi Machine Beispiel
+Multi Machine Beispiel LB2
 ----------------------
 
 ### Übersicht 
